@@ -1,7 +1,11 @@
 # deathcube
 Alternative branch of Voron 2.4r2 with 2040 profiles and MGN12H rails.
+
 This is not a fully itereated project. But it works on CAD :D
+
 Why we did that? Because we built other printers in the past, and we have a lot of time and spare materials.
+
+![Voron_2.4r2 Deathcube](Images/deathcube-render.jpeg)
 
 # Project Goals
 - Use 2040 Frame Members
