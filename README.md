@@ -1,4 +1,4 @@
-# deathcube
+# Voron 2.4r2 deathcube mod
 Alternative branch of Voron 2.4r2 with 2040 profiles and MGN12H rails.
 
 This is not a fully itereated project. But it works on CAD :D
