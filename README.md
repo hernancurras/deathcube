@@ -11,8 +11,8 @@ Why we did that? Because we built other printers in the past, and we have a lot 
 - Use 2040 Frame Members
 - Use standard Voron 2.4r2 standard profile lenght, but 2040.
 - Use MGN12H 400mm on all the rails (including X,Y,Z)  
-- Minimize the  the minium Voron Community parts. 
-- Build Volume of ~350^3 mm (350x350x˜330)
+- Try to modify as few parts as possible from the Voron 2.4r2 standard parts. 
+- Following the standard build Volume of ~350^3 mm (350x350x˜330).
 - Every modified part, must follow the VORON design rules (chanfers, fillets, and aesthetics) 
 - Include some well-known mods:
   -  GE5C Mod. Bearings Mount on every z. https://github.com/VoronDesign/VoronUsers/tree/main/printer_mods/hartk1213/Voron2.4_GE5C
